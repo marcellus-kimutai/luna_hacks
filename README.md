@@ -1,3 +1,12 @@
+# PCYSA
+### Devs
+1.
+2.
+3.
+4.
+5.
+6.
+
 # Business Understanding
 ## Who is the client?
 - The target user of this machine learning model is a farmer.
