@@ -37,10 +37,34 @@
 ## Source Systems
 ## Data Acquisition process
 
-# Exploratory Data Analysis
-## Exploratory Data Analysis process
-## Exploratory Data Analysis outcomes
+<details>
 
+<summary><h2>Exploratory Data Analysis</h2></summary>
+    
+   <h3>I. Introduction</h3>
+
+- Explanation of EDA and its purpose in this project
+- The main variable of interest in the data
+
+
+ <h3>II. EDA Techniques Used</h3>
+
+- Description of the exploratory visualizations used to analyze data sets
+- Explanation of data cleaning and preprocessing
+- Identification of patterns and relationships
+ 
+ <h3>III. Results of EDA </h3>
+
+- Calculation of errors in the data sets
+- Visualizations such as lineplots to examine the number of records of data reported
+- Feature selection used to train the model
+
+<h3>IV. Conclusion</h3>
+
+- Outcome of EDA and its usefulness in understanding the data
+- Importance of EDA in the development of the classification model
+
+</details>
 
 # Data Cleaning
 ## Data cleaning process
