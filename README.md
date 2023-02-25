@@ -29,12 +29,20 @@
 ## Data Acquisition process
 
 # Exploratory Data Analysis
+## Exploratory Data Analysis process
+## Exploratory Data Analysis outcomes
+
 
 # Data Cleaning
+## Data cleaning process
+## Data cleaning outcomes
 
 # Feature Engineering
+## Feature engineering process
+## Features description
 
 # Model Development
+## Model development approach
 
 # Model Evaluation
 
