@@ -43,12 +43,19 @@
 
 # Model Development
 ## Model development approach
+## Model justification
 
 # Model Evaluation
+## Metrics used
+## Metrics justification
+## Results
+## Conclusions
 
 # Model Deployment
+## Deployment model justification
+## Deployment process
 
-# Challenges
+# Challenges Faced
 
 
 
