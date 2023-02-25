@@ -1,12 +1,3 @@
-# PCYSA
-### Devs
-1.
-2.
-3.
-4.
-5.
-6.
-
 # Business Understanding
 ## Who is the client?
 - The target user of this machine learning model is a farmer.
@@ -22,9 +13,10 @@
 ## Client engagement process
  1. Machine learning team initially meet with the farmers.
  2. Data collection to understand the problem statement and the project scope and objectives.
- 3. Analyzing and evaluating farmers information so as to develop a personalized strategy. 
- 4.  Implementing solutions and monitoring appropriate areas where the maize crop can yield.
-
+ 3. Analyzing and evaluating farmers information. 
+ 4. Develop a personalized strategy so as to collaborate with the clients along the way. 
+ 5. Implementing solutions for the risk management.
+ 6. Monitoring appropriate areas where the maize crop can yield.
 
 
 ## Project Objectives
@@ -35,60 +27,37 @@
     - Farming techniques
 # Data Acquisition
 ## Source Systems
+-The data source for this project was obtained from various Sub-Saharan countries. This data have been analysed in GYGA which is widely used in collecting, storing and managing data. 
+-The xlsx file consits of three sheets specifying the country, climate zone and station.
+ 1. GygaRainfedMaizeSubSaharanAfrica.xlsx
+
 ## Data Acquisition process
+-Data Gathering: Gathering data from the source systems was the first phase in the data acquisition process. The information was accessed by any user and shared form of an excel format.
 
-<details>
+-Data Extraction: After the data had been shared we gathered it by downloading it to our machines. To make using the data during the data analysis process easier, the data was exported to pandas dataframe .
 
-<summary><h2>Exploratory Data Analysis</h2></summary>
-    
-   <h3>I. Introduction</h3>
+-Data Cleaning: To make sure the data was of the highest quality and prepared for analysis, the data underwent cleaning before being loaded into the working environment using pandas. Checking the data for duplicates, missing numbers, and inconsistencies was part of the cleaning procedure.
 
-- Explanation of EDA and its purpose in this project
-- The main variable of interest in the data
+-Data Loading: Following data cleansing, pandas was used to load the data into the working environment. Data frames, a type of pandas data structure that facilitates effective data manipulation and analysis, were used to load the data.
 
+-Data Preparation: The data was further prepared for analysis after it had been imported into the data frames. This required changing column names, eliminating extra columns, and converting the data's data types.
 
- <h3>II. EDA Techniques Used</h3>
+-Data Analysis: When the data had been loaded and formatted, data analysis was the following stage in order to find trends, patterns, and insights. Data visualization, machine learning, and statistical methodologies were all used to accomplish this.
 
-- Description of the exploratory visualizations used to analyze data sets
-- Explanation of data cleaning and preprocessing
-- Identification of patterns and relationships
- 
- <h3>III. Results of EDA </h3>
+# Exploratory Data Analysis
 
-- Calculation of errors in the data sets
-- Visualizations such as lineplots to examine the number of records of data reported
-- Feature selection used to train the model
-
-<h3>IV. Conclusion</h3>
-
-- Outcome of EDA and its usefulness in understanding the data
-- Importance of EDA in the development of the classification model
-
-</details>
 
 # Data Cleaning
-## Data cleaning process
-## Data cleaning outcomes
 
 # Feature Engineering
-## Feature engineering process
-## Features description
 
 # Model Development
-## Model development approach
-## Model justification
 
 # Model Evaluation
-## Metrics used
-## Metrics justification
-## Results
-## Conclusions
 
 # Model Deployment
-## Deployment model justification
-## Deployment process
 
-# Challenges Faced
+# Challenges
 
 
 
